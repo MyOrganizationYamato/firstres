@@ -1,0 +1,4 @@
+﻿<meta>
+  <info name="First res" type="script" />
+  <script src="compiled/netcoreapp2.2/firstres.dll" />
+</meta>
