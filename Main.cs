@@ -13,7 +13,6 @@ namespace firstres
         {
             var playerCount = ContextFactory.Instance.Accounts.Count();
             NAPI.Util.ConsoleOutput("[DataBase]Conturi create: " + playerCount);
-			muie cu cacat;
         }
 
     }

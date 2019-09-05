@@ -14,5 +14,6 @@ namespace firstres
         public string Username { get; set; }
         public string Password { get; set; }
         public string Muie { get; set; }
+        public string Salut { get; set; }
     }
 }
